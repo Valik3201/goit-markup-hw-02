@@ -14,7 +14,7 @@ Welcome to the Web Studio project. This part of the project focuses on the HTML 
 
 - **Optimized Images**: The project includes a folder named `images` that contains all the necessary images used in the web pages. The images are optimized for web delivery, ensuring fast loading times without sacrificing visual quality. Compression and optimization techniques, such as using tools like squoosh, are applied to reduce file sizes while maintaining optimal image quality.
 
-- **Project Structure**: The project's files and folders are organized in a logical and easy-to-navigate structure. HTML files, CSS files, and image assets are placed in appropriate directories, such as the `css` folder for styles and the `images` folder for images.
+- **Project Structure**: The project's files and folders are organized in a logical and easy-to-navigate structure. HTML files, CSS files, and image assets are placed in appropriate directories, such as the `css` file for styles and the `images` folder for images.
 
 ## Conclusion
 
