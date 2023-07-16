@@ -1,4 +1,4 @@
-# Web Studio Project - HTML, CSS, and Styling
+# Web Studio - HTML, CSS, and Styling
 
 Welcome to the Web Studio project. This part of the project focuses on the HTML markup, CSS styling, and overall design of the web pages. Here is a brief summary of what this portion of the project contains:
 
