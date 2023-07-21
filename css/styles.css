@@ -23,6 +23,10 @@ body {
   background: var(--cloud, #f4f4fd);
 }
 
+.top-line {
+  border-bottom: 1px solid var(--cornflower, #e7e9fc);
+}
+
 /* Logo */
 
 .logo {
