@@ -10,8 +10,6 @@ Welcome to the Web Studio project. This part of the project focuses on the HTML 
 
 - **Styling Guidelines**: The styling adheres to best practices and follows the design specifications outlined in the project requirements. The styling ensures consistency, readability, and visual appeal across all pages. Fonts, font sizes, colors, spacing, and other design elements are implemented according to the provided guidelines.
 
-- **Responsive Design**: The web pages are designed to be responsive, meaning they adapt and display properly on various devices and screen sizes. Media queries and responsive design techniques are utilized to create a seamless and enjoyable user experience across different devices.
-
 - **Optimized Images**: The project includes a folder named `images` that contains all the necessary images used in the web pages. The images are optimized for web delivery, ensuring fast loading times without sacrificing visual quality. Compression and optimization techniques, such as using tools like squoosh, are applied to reduce file sizes while maintaining optimal image quality.
 
 - **Project Structure**: The project's files and folders are organized in a logical and easy-to-navigate structure. HTML files, CSS files, and image assets are placed in appropriate directories, such as the `css` folder for styles and the `images` folder for images.
